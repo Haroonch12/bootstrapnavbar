@@ -1,0 +1,22 @@
+/* h1 {
+    color: white;
+}
+nav {
+    padding: 20px 20px;
+}
+.links-container {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    
+}
+.links-container li {
+    margin: 0 20px;
+}
+.links-container li a {
+    color: white;
+    text-decoration: none;
+} */
+.links-container {
+    margin-left: auto;
+}
